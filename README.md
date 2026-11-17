@@ -5,6 +5,7 @@ OSHC SmartGuide is a web application that helps international students understan
 The application supports password sign-in with an authenticator app, passwordless passkeys and email-based password recovery. A single `compose.yaml` runs the frontend, backend and MailHog together with Docker Compose or Podman.
 
 This is an educational prototype. Its content does not provide medical diagnosis, emergency assistance or a guarantee of insurance coverage. Claims and payment transactions are completed through the relevant official services.
+https://www.youtube.com/watch?v=xFLprse3qqI 
 
 ## Features
 
